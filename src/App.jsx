@@ -1,7 +1,11 @@
-import { useState } from "react";
-
+import React from "react";
+import Dropdown from "./Components/Dropdown/Dropdown";
 function App() {
-  return <></>;
+  return (
+    <>
+      <Dropdown />
+    </>
+  );
 }
 
 export default App;

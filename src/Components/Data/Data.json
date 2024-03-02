@@ -1,0 +1,64 @@
+[
+  {
+    "brand": "Toyota",
+    "country": "Japan",
+    "founded_year": 1937,
+    "popular_models": ["Camry", "Corolla", "Rav4"]
+  },
+  {
+    "brand": "Ford",
+    "country": "United States",
+    "founded_year": 1903,
+    "popular_models": ["F-150", "Focus", "Escape"]
+  },
+  {
+    "brand": "Volkswagen",
+    "country": "Germany",
+    "founded_year": 1937,
+    "popular_models": ["Golf", "Passat", "Tiguan"]
+  },
+  {
+    "brand": "Honda",
+    "country": "Japan",
+    "founded_year": 1946,
+    "popular_models": ["Accord", "Civic", "CR-V"]
+  },
+  {
+    "brand": "BMW",
+    "country": "Germany",
+    "founded_year": 1916,
+    "popular_models": ["3 Series", "5 Series", "X5"]
+  },
+  {
+    "brand": "Chevrolet",
+    "country": "United States",
+    "founded_year": 1911,
+    "popular_models": ["Silverado", "Equinox", "Malibu"]
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "country": "Germany",
+    "founded_year": 1926,
+    "popular_models": ["C-Class", "E-Class", "GLC"]
+  },
+  {
+    "brand": "Nissan",
+    "country": "Japan",
+    "founded_year": 1933,
+    "popular_models": ["Altima", "Rogue", "Sentra"]
+  },
+  {
+    "brand": "Audi",
+    "country": "Germany",
+    "founded_year": 1910,
+    "popular_models": ["A4", "Q5", "A6"]
+  },
+  {
+    "brand": "Tesla",
+    "country": "United States",
+    "founded_year": 2003,
+    "popular_models": ["Model S", "Model 3", "Model X"],
+    "innovative": true,
+    "electric": true
+  }
+]
