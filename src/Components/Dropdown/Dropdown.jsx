@@ -34,7 +34,7 @@ const Dropdown = () => {
       <select name='cars' id='car-select' onChange={handleSelectItem}>
         <option value=''>--Please choose an option--</option>
         {Cars.map((Car, index) => (
-          <option key={index} value={Car.value}>
+          <option key={index} value={Car.brand}>
             {Car.brand}
           </option>
         ))}
